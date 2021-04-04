@@ -4,6 +4,7 @@
 ## Setup/Installation Requirements
 * Clone the repo {git clone https://github.com/synthiakageni/hello-world.git
 ## Live link
+https://synthiakageni.github.io/hello-world/
 ## Known Bugs
 {There are no known bugs}
 ## Technologies Used
